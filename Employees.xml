@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<Employees>
+    <Employee>
+        <Name>Mohamed</Name>
+        <Email>mohamed@mail.com</Email>
+        <Phones>
+            <Phone type="home">0123456789</Phone>
+            <Phone type="work">9876543210</Phone>
+        </Phones>
+        <Addresses>
+            <Address>
+                <Street>Sidi Gaber</Street>
+                <Building>45</Building>
+                <Number>3</Number>
+                <Region>Sidi Gaber</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </Address>
+            <Address>
+                <Street>Cinema Leila</Street>
+                <Building>21</Building>
+                <Number>1</Number>
+                <Region>Bakous</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </Address>
+        </Addresses>
+    </Employee>
+
+    <Employee>
+        <Name>Omar</Name>
+        <Email>omar@mail.com</Email>
+        <Phones>
+            <Phone type="mobile">0415650650</Phone>
+            <Phone type="work">959260614</Phone>
+        </Phones>
+        <Addresses>
+            <Address>
+                <Street>Port Said</Street>
+                <Building>32</Building>
+                <Number>1</Number>
+                <Region>Cleopatra</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </Address>
+        </Addresses>
+    </Employee>
+</Employees>
